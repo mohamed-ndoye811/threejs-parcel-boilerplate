@@ -1,0 +1,7 @@
+dist
+node_modules
+.idea
+.vs_code
+pnpm-lock.yaml
+.parcel-cache
+.env
